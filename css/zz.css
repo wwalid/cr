@@ -129,6 +129,7 @@ margin-bottom: 20px;
 }
 .ski {
  margin-top: 70PX;
+ text-align: center;
  
 }
 .ski hr{
@@ -140,13 +141,20 @@ margin-bottom: 20px;
 }
 .ski h2{
  text-align: center;
- 
  color: #fff;
 }
-.slice h3{
- color: red;
- margin-top:180px;
+.ww   {
+
+ 
 }
+
+.ww   h6{
+ text-align: center;
+ color: #fff;
+
+}
+
+
 
                                 /*----------------------------*/
  .works {
@@ -249,6 +257,11 @@ margin-bottom: 30px;
 .About{
    text-align: center;
 }
+.ww{
+	
+ margin-left: 40%
+}
+
     }
 
 
@@ -262,7 +275,7 @@ margin-bottom: 30px;
 
  .im{
   margin: 0 auto;
-   margin-left: 50%;
+   margin-left: 40%;
  }
 .skills h4{
    text-align: center;
